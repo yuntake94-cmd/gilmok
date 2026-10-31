@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Gilmok" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#15181F</item>
+        <item name="android:statusBarColor">#15181F</item>
+        <item name="android:navigationBarColor">#15181F</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

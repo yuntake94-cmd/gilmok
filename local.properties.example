@@ -1,0 +1,2 @@
+# Android SDK 위치. Android Studio 가 자동 생성하며, CLI 빌드 시 아래처럼 직접 작성한다.
+sdk.dir=C\:\Users\<사용자>\AppData\Local\Android\Sdk
